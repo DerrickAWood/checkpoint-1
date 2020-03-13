@@ -1,0 +1,45 @@
+/* *{
+  outline: 5px solid black;
+} */
+
+.nav50{
+  background-color: transparent;
+}
+
+.back50{
+  background-image: url("https://www.rammstein.de/wp-content/uploads/2019/08/Crew2019_Rammstein.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+
+.taller{
+  margin-top: 10rem;
+}
+
+.hgt{
+  height: 25rem;
+}
+
+iframe{
+  height: 500px;
+  width: 500px;
+}
+
+.imgsz{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.imght{
+  height: 30vh;
+}
+
+.imght2{
+  height: 15vh;
+}
+
+.spill{
+  bottom: -5;
+}
