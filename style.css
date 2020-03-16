@@ -41,5 +41,9 @@ iframe{
 }
 
 .spill{
-  margin-bottom: -15;
+  margin-bottom: -15vh;
+}
+
+.blank{
+  height: 30vh;
 }
